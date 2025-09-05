@@ -55,3 +55,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+
+# my ignores
+*.s
+*.swp
